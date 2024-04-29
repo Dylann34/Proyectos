@@ -21,4 +21,3 @@ def calcular_paneles(a, b, x, y):
 total_paneles = calcular_paneles(a, b, x, y)
 
 print(f"La cantidad de paneles que caben dentro de las dimensiones del techo ingresadas es: {int(total_paneles)}")
-"Sexo"
