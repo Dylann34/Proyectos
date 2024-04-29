@@ -13,7 +13,7 @@ def calcular_paneles(a, b, x, y):
     paneles_horizontales = x / a
     paneles_verticales = y / b
     
-    # Calcula el total de rectángulos
+    # Calcula el total de paneles
     total_paneles = paneles_horizontales * paneles_verticales
 
     return total_paneles
